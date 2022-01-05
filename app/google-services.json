@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "874792394567",
+    "project_id": "hremployeesalarycalculatorapp",
+    "storage_bucket": "hremployeesalarycalculatorapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874792394567:android:b102da9c403874db2f7662",
+        "android_client_info": {
+          "package_name": "com.example.hremployeesalarycalculatorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874792394567-pt8pj27rb7dhac9hghrf1m60v0ae7od4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCahSFcJhBu3V2cqGw2u6Bd1pgabry5VSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874792394567-pt8pj27rb7dhac9hghrf1m60v0ae7od4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
